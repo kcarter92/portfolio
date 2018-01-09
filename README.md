@@ -1,2 +1,2 @@
 # portfolio
-First go at my porfolio
+First go at my portfolio
